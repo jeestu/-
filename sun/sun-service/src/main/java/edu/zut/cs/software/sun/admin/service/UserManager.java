@@ -1,5 +1,12 @@
 package edu.zut.cs.software.sun.admin.service;
 
-public interface UserManager {
+import java.util.List;
 
+import edu.zut.cs.software.sun.admin.entity.User;
+
+
+
+public interface UserManager {
+public String sayHello(String name);
+public List<User> getAll();
 }
