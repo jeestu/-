@@ -1,0 +1,2 @@
+https://blog.csdn.net/lifetragedy/article/details/51836557
+activemq的下载安装配置与消息类型
